@@ -1,1 +1,1 @@
-This Repository is solely intended to learn coppeliasim and to use the knoweldge for further proejcts
+This repository is dedicated to learning the fundamentals of CoppeliaSim and building foundational skills for future projects. Here, I explored CoppeliaSim using both Lua and Python for scripting and simulation. It also includes my mini-project, where I modeled a mobile robot and implemented a path-planning algorithm.
